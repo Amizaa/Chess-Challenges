@@ -74,12 +74,12 @@ The mechanism of this project is the same as the previous one, with the differen
    4
    WRE4
    BQE7
-   WPE2
    BPD3
+   WPE2
    3
    E2
-   E4
    D3
+   E4
 ![example image](images/example.png)
 
 - **Output :**
