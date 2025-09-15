@@ -42,14 +42,14 @@ The answer to each question is one of the three words **YES**, which means that 
    4
    WRE4
    BQE7
+   D3E2
    WPE2
-   BPD3
    5
    E2E3
+   BPD3
    E2E4
    E4E7
    E4E1
-   D3E2
 ![example image](images/example.png)
 
 - **Output :**
